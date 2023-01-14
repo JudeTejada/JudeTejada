@@ -1,6 +1,5 @@
 ### Hey, I'm Jude 👋
 
-## Get to know about me
 - 🔭I'm Open for remote jobs
 - 👨🏻‍💻I'm currently learning React Native
 - 💬Ask me about anything about the web
