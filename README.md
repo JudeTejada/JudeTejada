@@ -24,4 +24,5 @@ My Go to Technologies:
 - [https://judetejada.vercel.app/blog/building-quick-links](https://judetejada.vercel.app/blog/building-quick-links)
 - [https://judetejada.vercel.app/blog/how-i-improved-the-performance-of-my-website](https://judetejada.vercel.app/blog/how-i-improved-the-performance-of-my-website)
 - [https://judetejada.vercel.app/blog/4-productivity-tips-i-follow](https://judetejada.vercel.app/blog/4-productivity-tips-i-follow)
-[- [https://judetejada.vercel.app/blog/4-productivity-tips-i-follow](https://judetejada.vercel.app/blog/4-productivity-tips-i-follow)](https://judetejada.vercel.app/blog/migrating-compiled-nextjs-13-app-dir)
+- [https://judetejada.vercel.app/blog/migrating-compiled-nextjs-13-app-dir](https://judetejada.vercel.app/blog/migrating-compiled-nextjs-13-app-dir)
+
