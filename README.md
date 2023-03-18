@@ -1,9 +1,9 @@
 ### Hey, I'm Jude 👋
 
-- 🔭I'm Open for remote jobs
-- 👨🏻‍💻I'm currently learning React Native
-- 💬Ask me about anything about the web
-- ✉️How to reach me: @JudeTejada2 on Twitter
+- 🔭  I'm Open for remote jobs
+- 👨🏻‍💻 I'm currently learning React Native
+- 💬 Ask me about anything about the web
+- ✉️ How to reach me: @JudeTejada2 on Twitter
 - Fun fact: My favorite color is 💙
 
 My Go to Technologies:
@@ -24,4 +24,4 @@ My Go to Technologies:
 - [https://judetejada.vercel.app/blog/building-quick-links](https://judetejada.vercel.app/blog/building-quick-links)
 - [https://judetejada.vercel.app/blog/how-i-improved-the-performance-of-my-website](https://judetejada.vercel.app/blog/how-i-improved-the-performance-of-my-website)
 - [https://judetejada.vercel.app/blog/4-productivity-tips-i-follow](https://judetejada.vercel.app/blog/4-productivity-tips-i-follow)
-- [https://judetejada.vercel.app/blog/4-productivity-tips-i-follow](https://judetejada.vercel.app/blog/4-productivity-tips-i-follow)
+[- [https://judetejada.vercel.app/blog/4-productivity-tips-i-follow](https://judetejada.vercel.app/blog/4-productivity-tips-i-follow)](https://judetejada.vercel.app/blog/migrating-compiled-nextjs-13-app-dir)
