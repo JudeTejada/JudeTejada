@@ -1,7 +1,7 @@
 ### Hey, I'm Jude 👋
 
 Full-stack engineer focused on shipping React & Next.js products that drive real business impact for SaaS and AI companies.  
-Open to **fully remote roles (including Australia-based teams)**.
+
 
 - 🔭 Currently working on AI-powered dev tools (Reactly, Mergedocs)
 - 👨🏻‍💻 Deep in React, Next.js, TypeScript, and NestJS
