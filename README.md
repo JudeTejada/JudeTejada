@@ -48,5 +48,5 @@ Full-stack engineer focused on shipping React & Next.js products that drive real
 
 ### GitHub at a glance
 
-![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudeTejada&show_icons=true&theme=transparent)
+![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudeTejada&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeTejada&layout=compact&theme=transparent)
