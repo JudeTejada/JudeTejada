@@ -28,10 +28,10 @@ Full-stack engineer focused on shipping React & Next.js products that drive real
 ### Featured projects
 
 - 🔍 **Reactly** – SaaS for user sentiment analysis using Next.js + NestJS + Drizzle + Redis  
-  → [github.com/your-username/reactly](https://github.com/) (replace with real link)
+  → [github.com/JudeTejada/reactly](https://github.com/) 
 
 - 📄 **Mergedocs** – AI-powered documentation generator that summarizes PR diffs with Google Gemini  
-  → [github.com/your-username/mergedocs](https://github.com/) (replace with real link)
+  → [github.com/JudeTejada/mergedocs](https://github.com/)
 
 - 🧰 More on my portfolio: [judetejada.vercel.app](https://judetejada.vercel.app)
 
